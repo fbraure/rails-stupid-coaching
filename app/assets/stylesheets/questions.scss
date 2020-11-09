@@ -1,0 +1,10 @@
+a {
+  color: grey;
+  &:hover {
+    color: black;
+  }
+}
+input {
+  border: 1px red solid;
+  border-radius : 5px;
+}
